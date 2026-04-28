@@ -110,12 +110,4 @@ Search roles, skills, companies, or cities across **12,428 real CSE job listings
 
 ---
 
-## 📸 MVP Snapshots (Suggested)
-
-- Home Page  
-- Job Listings  
-- Job Detail Page  
-- AI Roadmap  
-- Weekly Breakdown    
-- Dashboard  
 
