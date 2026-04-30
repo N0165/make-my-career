@@ -1,9 +1,10 @@
 import { useState, useEffect, useRef } from "react";
 import JOB_DATA from './jobData.json';
 
-// 1. Get Gemini key: aistudio.google.com → Get API Key
-const GEMINI_KEY = "AIzaSyCwnoio8TH3g1buNylOHrGuW_EM-Nnod_E";
-const GOOGLE_CLIENT_ID = "627106200007-9hdupqjq93abavasvprrco8bfrrsv5od.apps.googleusercontent.com";
+// 1. Get Gemini key: aistudio.google.com → Get API Key 
+//if hackthon faculty is reviewing this code then i am sorry but i had to remove my api and client id due to secuirty reasons ,also i was running out of time on 28th april so tht time i let them but now removing I accept that i was not able to put them in safe file and then giving link of that file here to process the code.
+const GEMINI_KEY = "-";
+const GOOGLE_CLIENT_ID = ".apps.gocontent.com";
 
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
 const G = { blue:"#4285F4", red:"#EA4335", yellow:"#FBBC05", green:"#34A853" };
